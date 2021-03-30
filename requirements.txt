@@ -1,4 +1,4 @@
 pandas==1.1.5
 transformers==4.3.3
 streamlit==0.78.0
-TensorFlow >= 2.0
+TensorFlow
